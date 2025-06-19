@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Vite build output
+dist/
+
+# Optional cache directories
+.cache/
+.vite/
+*.log
+
+# gh-pages cache
+node_modules/.cache/gh-pages/
+
+# TypeScript build output (якщо використовуєш tsc окремо)
+*.tsbuildinfo
+
+# OS / IDE files
+.DS_Store
+.idea/
+.vscode/
+
+# Env files (якщо будуть)
+.env
+.env.*.local
